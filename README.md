@@ -1,7 +1,3 @@
-Sure! Here's a well-structured **README** for your Air Quality Analysis project:  
-
----
-
 # 🌍 Air Quality Index (AQI) Analysis  
 
 ## 📌 Overview  
