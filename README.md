@@ -32,8 +32,5 @@ This project analyzes the Air Quality Index (AQI) of different regions in the co
    ```  
 4. Open Power BI and load the dataset to explore the interactive dashboard.  
 
-## 📸 Screenshots  
-(Add some images of your visualizations or Power BI dashboard here)  
-
 ## 🤝 Contributing  
 Feel free to fork this repository and enhance the project!  
